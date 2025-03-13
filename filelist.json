@@ -1,4 +1,4 @@
-[
+{
 	{
 	"csv_relative_url": "BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_order_reviews_dataset.csv",
 	"file_name":"olist_order_reviews_dataset.csv"
@@ -11,4 +11,4 @@
 	"csv_relative_url": "BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_sellers_dataset.csv",
 	"file_name":"olist_sellers_dataset.csv"
 	}
-]
+}
