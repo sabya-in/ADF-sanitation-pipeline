@@ -1,14 +1,14 @@
 [
   {
     "csv_relative_url": "refs/heads/main/data/product_category_name_translation.csv",
-    "file_name": "olist_order_reviews_dataset.csv"
+    "file_name": "product_category_name_translation"
   },
   {
     "csv_relative_url": "refs/heads/main/data/olist_products_dataset.csv",
-    "file_name": "olist_products_dataset.csv"
+    "file_name": "olist_products_dataset"
   },
   {
     "csv_relative_url": "refs/heads/main/data/olist_sellers_dataset.csv",
-    "file_name": "olist_sellers_dataset.csv"
+    "file_name": "olist_sellers_dataset"
   }
 ]
