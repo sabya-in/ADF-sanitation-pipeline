@@ -1,0 +1,9 @@
+{
+	"name": "ecommerce-adf-sachi",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "38c22e91-43a8-4a2d-bbed-00520ad21804",
+		"tenantId": "a94de956-de2f-426a-a083-b5583df53135"
+	}
+}
